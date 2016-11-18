@@ -1,0 +1,40 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+header{
+	background-color: #36485C;
+	height: 50px;
+
+}
+
+.logo{
+	color: #FAFBFC;
+	margin-right: 30px;
+
+}
+
+.button{
+                                                                                               
+	background-color: #EB28C7;
+	border-radius: 5px;
+	margin-top: -40px;
+}
+
+.btn-menu{
+
+
+
+}
+
